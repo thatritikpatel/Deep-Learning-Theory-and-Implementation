@@ -212,5 +212,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 ## Contact
 - Ritik Patel - [ritik.patel129@gmail.com]
-- Project Link: [https://github.com/thatritikpatel/Diamond-Price-Predictor]"
+- Project Link: [https://github.com/thatritikpatel/Deep-Learning-Theory-and-Implementation/tree/main]"
 ---"# Deep-Learning-Theory-and-Implementation" 
